@@ -1,0 +1,6 @@
+{
+  "name": "PROOF",
+  "description": "Offline, open-weight intellectual stress test that exposes where your understanding secretly breaks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
